@@ -5,12 +5,12 @@ To run it:<br>
 1: Download python 3<br>
 2: Download Pendragon.py and .env to the same folder<br>
 3: Go to https://discordapp.com/developers/applications<br>
-  3.1: Create new application<br>
-  3.2: Under OAuth2-> SCOPES select "bot"<br>
-  3.3: Under OAuth2-> BOT PERMISSIONS select "Send messages"<br>
-  3.4: Copy generated link under SCOPES to a browser<br>
-    3.4.1: Select server to add bot to<br>
-  3.5: Under BOT copy token to the downloaded .env file<br>
+..Create new application<br>
+..Under OAuth2-> SCOPES select "bot"<br>
+..Under OAuth2-> BOT PERMISSIONS select "Send messages"<br>
+..Copy generated link under SCOPES to a browser<br>
+..Select server to add bot to<br>
+..Under BOT copy token to the downloaded .env file<br>
 4: Run Pendragon.py bot should be running now.<br>
 5: Syntax for a roll is '/rs [skill]±[modifier]±[modifier]......±[modifier]<br>
 <br>
